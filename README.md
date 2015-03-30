@@ -4,7 +4,7 @@ Written in Java and Andriod Studio (1.0.1).
 
 
 ## Disclaimer
-This code is posted for informational purposes only. If you feel this code fails to obey the company's terms & policy or any law, contact me at gaochi0500@gmail.com
+This code is posted for informational purposes only. If you feel this code fails to obey your company's terms & policy or any law, contact me at gaochi0500@gmail.com
 
 Use this code at your own risk.
 
